@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Adel</h1>
 <h3 align="center">A passionate frontend developer from EGYPT</h3>
-<img  align="right" alt="coding" width="400" src="https://dribbble.com/shots/3642522-Character-Animation-in-VR">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mohamedadel7799&label=Profile%20views&color=0e75b6&style=flat](https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?w=740&t=st=1707899712~exp=1707900312~hmac=476f3a8a67d17901113ac4388dc73f1c9f73c4f9094ec54c92aa5c7d1a46768a)" alt="mohamedadel7799" /> </p>
+
 
 - 🌱 I’m currently learning **Frontend Technologies**
 
