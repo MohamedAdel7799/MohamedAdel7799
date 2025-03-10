@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi , I'm Mohamed Adel and I'm a Front End Developer from EGYPT</h2>
+<h2 align="left">👋 Hi , I'm Mohamed Adel and I'm a MERN Stack DEV </h2>
 
 ###
 
